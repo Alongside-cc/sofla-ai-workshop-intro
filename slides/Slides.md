@@ -23,11 +23,13 @@ marp: true
 
 ### Thank you to Damian Montero & all the volunteers of these amazing South Florida Meetups!
 
+
 - Florida JS 
 - Florida.Net
 - Microsoft Cloud South Florida
 - AI ChatGPT for Business
 
+## And Happy Birthday Damian! 🎂
 ---
 
 
