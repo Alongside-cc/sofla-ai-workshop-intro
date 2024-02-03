@@ -6,23 +6,47 @@ marp: true
 ---
 
 # AI Workshop
-## South Florida, Feb 2024
-### David Cobb, Azure MCT
+# - South Florida, Feb 2024
+## David Cobb, Azure MCT
 
 
+## Find all resources at:
+## https://aiworkshop.info/
 
-
----
-
-# Intro
 
 <button onclick="document.querySelectorAll('section').forEach((e) => e.classList.toggle('invert'))">Toggle appearance</button>
 
-# 'OpenAI Prompt Engineer Expert' David Cobb
+---
 
-> Who does this guy think he is, some know it all about prompt engineering?
-## I'm not that kind of expert 
-### I'm the the kind of expert that learns Azure fast and shares what I know.
+
+# First, thank you!
+
+### Thank you to Damian Montero & all the volunteers of these amazing South Florida Meetups!
+
+- Florida JS 
+- Florida.Net
+- Microsoft Cloud South Florida
+- AI ChatGPT for Business
+
+---
+
+
+
+## David's background
+
+- Nearly 30 years in I.T.
+- MCT since 2002 teaching SQL Server
+- Working my own business last four years teaching & consulting on Azure development, data, admin & security
+- Multiple Azure certs including AI-102
+
+---
+
+# AI Prompt Engineering Expert? 😅
+
+- Fascinated by AI since ChatGPT 3.5 release
+  
+- In 2024 I'm exploring and guiding folks toward the most useful **Azure AI** resources.
+  
 ---
 
 
@@ -30,7 +54,7 @@ marp: true
 
 - Play, make mistakes, have fun
 - Learn from each other & share what you know.
-- Discuss community possibilities for AI in 2024
+- Discuss community possibilities for AI in 2024, like the [Global AI Bootcamp](https://globalai.community/bootcamp)
 
 
 ---
@@ -47,6 +71,51 @@ marp: true
 
 # Looking Ahead
 
-## Join our email list to be notified for dates in March 2024 for the [Global AI Bootcamp](https://globalai.community/bootcamp)
+## Join our email list to be notified for dates & details in March 2024 for the [Global AI Bootcamp](https://globalai.community/bootcamp)
 
 ---
+
+# Azure OpenAI Technologies of Interest in 2024
+
+## [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+
+## [Prompt Flow](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow)
+
+## [Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-get-started?tabs=web)
+
+---
+## Presentation:
+[Learn how to use OpenAI models using prompt engineering](https://docs.google.com/presentation/d/12PlwRj_HyTucpfRUwe6mEf7pN6nXSe8NvZoKBNNDEEo/edit#slide=id.p1)
+
+
+---
+
+Misc
+
+OpenAI function example, search_hotel
+
+```
+[  
+    {
+        "name": "search_hotels",
+        "description": "Retrieves hotels from the search index based on the parameters provided",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "location": {
+                    "type": "string",
+                    "description": "The location of the hotel (i.e. Seattle)"
+                },
+                "max_price": {
+                    "type": "number",
+                    "description": "The maximum price for the hotel"
+                },
+                "features": {
+                    "type": "string",
+                    "description": "A comma separated list of features (i.e. beachfront, free wifi, etc.)"
+                }
+            },
+            "required": ["location"]
+        }
+    }
+]  
