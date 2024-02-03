@@ -1,97 +1,52 @@
 ---
 marp: true
-theme: custom-default
-footer: 'https://example.com'
+ theme: custom-dave
+ class: invert
+ footer: 'LI: davidcobb'
 ---
 
-# My Presentation
-![bg right](https://picsum.photos/800/600)
+# AI Workshop
+## South Florida, Feb 2024
+### David Cobb, Azure MCT
 
----
 
-<!-- Speaker Notes -->
-## Slide 1
 
-- Item 1
-- Item 2
-- Item 3
-<!-- Can have multiple on a slide -->
 
 ---
 
-## Slide 2
-<!-- Can also do a multiline
-comment that will show in notes -->
+# Intro
 
-![Image](https://picsum.photos/800/600)
+<button onclick="document.querySelectorAll('section').forEach((e) => e.classList.toggle('invert'))">Toggle appearance</button>
+
+# 'OpenAI Prompt Engineer Expert' David Cobb
+
+> Who does this guy think he is, some know it all about prompt engineering?
+## I'm not that kind of expert 
+### I'm the the kind of expert that learns Azure fast and shares what I know.
+---
+
+
+# Goals for Workshop
+
+- Play, make mistakes, have fun
+- Learn from each other & share what you know.
+- Discuss community possibilities for AI in 2024
+
 
 ---
 
-## Slide 3
 
-> This is a quote.
+# Agenda
 
----
-
-## Slide 4
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+- Looking ahead to upcoming AI community learning opportunities
+- BRIEF presentation: **'Learn how to use OpenAI models using prompt engineering'**
+- Jump into OpenAI Playground
+- Networking & discussions
 
 ---
 
-![bg opacity](https://picsum.photos/800/600?image=53)
-## Slide 5
+# Looking Ahead
 
-<div class="columns">
-<div>
-
-## Left
-
-- 1
-- 2
-
-</div>
-<div>
-
-## Right
-
-- 3
-- 4
-
-</div>
-</div>
+## Join our email list to be notified for dates in March 2024 for the [Global AI Bootcamp](https://globalai.community/bootcamp)
 
 ---
-
-## Slide 6
-
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
-
----
-
-# <!--fit--> Large Text
-
----
-
-<!-- Needed for mermaid, can be anywhere in file except frontmatter -->
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
-# Mermaid
-
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
