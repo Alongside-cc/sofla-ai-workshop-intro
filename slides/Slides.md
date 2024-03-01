@@ -5,9 +5,8 @@ marp: true
  footer: 'LI: davidcobb'
 ---
 
-# Global AI Workshop - NSU - Davie FL
-# - South Florida, March 2024
-## David Cobb, Azure MCT
+## Global AI Bootcamp 2024
+#### NSU - Davie, FL
 
 
 ## Find all resources at:
@@ -25,7 +24,7 @@ marp: true
 
 ### Thank you to the volunteers of these amazing South Florida Meetups!
 
-- **DataGeeks.org - Sponsor of 🥯☕**
+- **[South Florida Data Geeks](https://www.meetup.com/soflodatageeks/) - Sponsor of ☕ & 🥯**
 - [South Florida Generative AI User Group](https://www.meetup.com/southfloridagenaiug/)
 - [Florida JS](https://www.meetup.com/floridajs/)
 - [Florida Dotnet](https://www.meetup.com/fladotnet/)
@@ -65,7 +64,8 @@ Join us at **Ye Olde Falcon Pub** (2867 S University Dr, Davie, FL 33328) from *
 - Nearly 30 years in I.T.
 - MCT since 2002 teaching SQL Server
 - Since 2020 teaching & consulting Azure development, data, admin & security as a freelancer
-- Multiple Azure certs (including AI-102 AI Engineer 🤓 )
+- Recent talk: [Teach to Learn Azure in 2024!](https://bit.ly/ttla2024)
+- Let's connect, how can I help? [linkedin.com/in/davidcobb](https://linkedin.com/in/davidcobb)
 
 ---
 
@@ -79,7 +79,9 @@ Join us at **Ye Olde Falcon Pub** (2867 S University Dr, Davie, FL 33328) from *
 
 ---
 
-# Azure OpenAI Technologies of Interest in 2024
+# Azure OpenAI Tools of Interest in 2024
+
+## [Assistants](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/assistant)
 
 ## [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
@@ -89,7 +91,7 @@ Join us at **Ye Olde Falcon Pub** (2867 S University Dr, Davie, FL 33328) from *
 
 ---
 ## Presentation:
-[Learn how to use OpenAI models using prompt engineering](https://docs.google.com/presentation/d/12PlwRj_HyTucpfRUwe6mEf7pN6nXSe8NvZoKBNNDEEo/edit#slide=id.p1)
+[Learn how to use OpenAI models using prompt engineering](https://docs.google.com/presentation/d/e/2PACX-1vR95Qb2DAk8BJpiVmZDGFPR74aZmAso5H6L7sshKIBnv1EDxYKw21fJVILrtiojgt-uYq9pRdq7GFRn/pub)
 
 
 ---
