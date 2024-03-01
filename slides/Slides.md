@@ -5,13 +5,15 @@ marp: true
  footer: 'LI: davidcobb'
 ---
 
-# AI Workshop
-# - South Florida, Feb 2024
+# Global AI Workshop - NSU - Davie FL
+# - South Florida, March 2024
 ## David Cobb, Azure MCT
 
 
 ## Find all resources at:
 ## https://aiworkshop.info/
+
+![bg contain right Microsoft Learn Site](img/united-states_davie_825_sticker.png)
 
 
 <button onclick="document.querySelectorAll('section').forEach((e) => e.classList.toggle('invert'))">Toggle appearance</button>
@@ -21,15 +23,39 @@ marp: true
 
 # First, thank you!
 
-### Thank you to Damian Montero & all the volunteers of these amazing South Florida Meetups!
+### Thank you to the volunteers of these amazing South Florida Meetups!
 
+- **DataGeeks.org - Sponsor of 🥯☕**
+- [South Florida Generative AI User Group](https://www.meetup.com/southfloridagenaiug/)
+- [Florida JS](https://www.meetup.com/floridajs/)
+- [Florida Dotnet](https://www.meetup.com/fladotnet/)
+- [Microsoft Cloud South Florida](https://www.meetup.com/mcsfug/)
+- [AI ChatGPT for Business](https://www.meetup.com/boca-area-ai-chatgpt-for-business/)
 
-- Florida JS 
-- Florida.Net
-- Microsoft Cloud South Florida
-- AI ChatGPT for Business
+---
 
-## And Happy Birthday Damian! 🎂
+### Today's Agenda & Speakers
+
+- **9:00am-10:00am:** Welcome, Keynote & Announcements
+  
+- **10:00am-11:30am:**  
+  - **David Cobb** - Hands-On OpenAI Workshop (LAPTOP REQUIRED)
+  - [AI Workshop for attendees](https://globalaicommunity.github.io/global-ai-bootcamp-2024/workshop/)
+
+- **11:30am-12:30pm:** Lunch Break (nearby campus food courts)
+
+- **12:30pm-2:00pm:** 'MY AI PROJECT' Lightning Talks
+    - **Robert Hellestrae** - Publishing IOS & Android phone app utilizing ChatGPT
+    - **Craig Simon** - Publishing custom GPT available on the OpenAI site
+
+- **2:00pm-4:00pm:**
+  - **Jiho Sohn** - AI Video Workshop (LAPTOP REQUIRED, Microsoft and Google account REQUIRED to participate).
+
+---
+
+## After-Event Gathering 
+Join us at **Ye Olde Falcon Pub** (2867 S University Dr, Davie, FL 33328) from **5:00pm to 7:00pm** to continue discussions on AI community
+
 ---
 
 
@@ -38,42 +64,18 @@ marp: true
 
 - Nearly 30 years in I.T.
 - MCT since 2002 teaching SQL Server
-- Working my own business last four years teaching & consulting on Azure development, data, admin & security
-- Multiple Azure certs including AI-102
+- Since 2020 teaching & consulting Azure development, data, admin & security as a freelancer
+- Multiple Azure certs (including AI-102 AI Engineer 🤓 )
 
----
-
-# AI Prompt Engineering Expert? 😅
-
-- Fascinated by AI since ChatGPT 3.5 release
-  
-- In 2024 I'm exploring and guiding folks toward the most useful **Azure AI** resources.
-  
 ---
 
 
 # Goals for Workshop
 
 - Play, make mistakes, have fun
-- Learn from each other & share what you know.
-- Discuss community possibilities for AI in 2024, like the [Global AI Bootcamp](https://globalai.community/bootcamp)
+- Learn from each other & share what you know
+- Discuss future community possibilities for AI in 2024
 
-
----
-
-
-# Agenda
-
-- Looking ahead to upcoming AI community learning opportunities
-- BRIEF presentation: **'Learn how to use OpenAI models using prompt engineering'**
-- Jump into OpenAI Playground
-- Networking & discussions
-
----
-
-# Looking Ahead
-
-## Join our email list to be notified for dates & details in March 2024 for the [Global AI Bootcamp](https://globalai.community/bootcamp)
 
 ---
 
